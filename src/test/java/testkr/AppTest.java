@@ -1,4 +1,4 @@
-package testkr;
+package test.java.testkr;
 
 import static org.junit.Assert.assertTrue;
 

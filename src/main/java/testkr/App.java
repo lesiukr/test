@@ -1,4 +1,4 @@
-package testkr;
+package main.java.testkr;
 
 /**
  * Hello world!
